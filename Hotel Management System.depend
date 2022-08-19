@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1660865294 source:c:\users\kingsley\onedrive\desktop\bs456102820_ce\hotel management system\main.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+
